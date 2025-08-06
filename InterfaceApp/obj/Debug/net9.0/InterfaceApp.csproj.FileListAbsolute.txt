@@ -1,0 +1,15 @@
+C:\Users\ESTHER\InterfaceApp\bin\Debug\net9.0\InterfaceApp.exe
+C:\Users\ESTHER\InterfaceApp\bin\Debug\net9.0\InterfaceApp.deps.json
+C:\Users\ESTHER\InterfaceApp\bin\Debug\net9.0\InterfaceApp.runtimeconfig.json
+C:\Users\ESTHER\InterfaceApp\bin\Debug\net9.0\InterfaceApp.dll
+C:\Users\ESTHER\InterfaceApp\bin\Debug\net9.0\InterfaceApp.pdb
+C:\Users\ESTHER\InterfaceApp\obj\Debug\net9.0\InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTHER\InterfaceApp\obj\Debug\net9.0\InterfaceApp.AssemblyInfoInputs.cache
+C:\Users\ESTHER\InterfaceApp\obj\Debug\net9.0\InterfaceApp.AssemblyInfo.cs
+C:\Users\ESTHER\InterfaceApp\obj\Debug\net9.0\InterfaceApp.csproj.CoreCompileInputs.cache
+C:\Users\ESTHER\InterfaceApp\obj\Debug\net9.0\InterfaceApp.sourcelink.json
+C:\Users\ESTHER\InterfaceApp\obj\Debug\net9.0\InterfaceApp.dll
+C:\Users\ESTHER\InterfaceApp\obj\Debug\net9.0\refint\InterfaceApp.dll
+C:\Users\ESTHER\InterfaceApp\obj\Debug\net9.0\InterfaceApp.pdb
+C:\Users\ESTHER\InterfaceApp\obj\Debug\net9.0\InterfaceApp.genruntimeconfig.cache
+C:\Users\ESTHER\InterfaceApp\obj\Debug\net9.0\ref\InterfaceApp.dll
